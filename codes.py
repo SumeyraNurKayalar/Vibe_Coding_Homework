@@ -9,7 +9,7 @@ bearer_token = "AAAAAAAAAAAAAAAAAAAAABwBzgEAAAAAVCPmFnZswEoIQ%2BxxTiss7mzr1XA%3D
 client = tweepy.Client(bearer_token=bearer_token)
 
 hashtag = "#cats"
-num_tweets = 70
+num_tweets = 100
 
 tweets = []
 
